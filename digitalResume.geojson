@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 1,
+          "Name": "Cincinnati",
+          "Description": "I was born in Cincinnati. I grew up In a very chaotic house with three brothers.",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "house"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.5120, 39.1031]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 2,
+          "Name": "Akron",
+          "Description": "My mom took at position at Smuckers and moved to our family to Akron when I was eleven",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "house"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-81.511452, 41.081757]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 3,
+          "Name": "Cuyahoga Valley National Park",
+          "Description": "Community Engagement Intern - offered engaging cultural and natural interpretations of the area to park visitors",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "briefcase"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-81.5554, 41.2414]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 4,
+          "Name": "Queens University of Charlotte",
+          "Description": "Played college lacrosse while earning a degree in biology. I had my introduction to GIS here.",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "school"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-80.8431, 35.2271]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 5,
+          "Name": "Columbus",
+          "Description": "The capital city of Ohio, rich in art and education.",
+          "Experience": "Museums, college sports, and parks.",
+          "zoom": "",
+          "Icon": "user-graduate"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-82.9988, 39.9612]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 6,
+          "Name": "Kupu HYCC Team Leader",
+          "Description": "Supervised a team of four interns while completing enviromnetal restoration projects.",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "briefcase"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-156.5047, 20.8919]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 7,
+          "Name": "Ohio State University - Department of EEOB",
+          "Description": "Teaching Assistant - Managed a lab setting of 25 students by preparing and effectively communicating material.",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "person-chalkboard"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-82.9988, 39.9612]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 8,
+          "Name": "Ohio State University",
+          "Description": "Undergraduate Research Assistant - Standardized raw, qualitave data pertaining to the Biology curricula at Ohio State University. This data was used To score professors on their ability to teach the outlined curriculum",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "database"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-82.9988, 39.9612]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 9,
+          "Name": "Hampton Resources",
+          "Description": "GIS Analyst - Analyzed geospatial data, created maps, maintained GIS databases, performed spatial analysis, supported decision-making, and collaborated with Foresters to solve help reduce spatial challenges.",
+          "Experience": "",
+          "zoom": "",
+          "Icon": "briefcase"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.0351, 44.9429]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID": 10,
+          "Name": "URISA Emerging Professionals Program",
+          "Description": "Board Member - Organize meetings/agendas, s elect metors/mentees, Create educational materials and resources for mentorship pair.",
+          "Experience": "Culture, nature, and food tours.",
+          "zoom": "",
+          "Icon": "briefcase"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.6765, 45.5231]
+        }
+      }
+    ]
+  }

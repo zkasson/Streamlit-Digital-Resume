@@ -1,7 +1,5 @@
 streamlit
-geopandas 
-pandas 
-matplotlib
+geopandas  
 leafmap
 folium
-gssapi
+streamlit_folium

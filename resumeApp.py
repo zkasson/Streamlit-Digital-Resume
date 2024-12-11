@@ -32,7 +32,7 @@ if col2.button('Next'):
 def read_json(url):
     return gpd.read_file(url)
 
-json_file = r'C:\Users\zackk\OneDrive\Desktop\Resume\Streamlit Digital Resume\digitalResume.geojson'
+json_file = r'https://raw.githubusercontent.com/zkasson/Streamlit-Digital-Resume/refs/heads/main/digitalResume.geojson'
 state_json = r'https://raw.githubusercontent.com/zkasson/Portfolio/refs/heads/main/US_States.json'
 gdf = read_json(json_file)
 state_gdf = read_json(state_json)

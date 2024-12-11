@@ -101,7 +101,7 @@ else:
     # Display details
     st.subheader(f"Location: {current_location_name}")
     st.write(current_location_desc)
-    st.write(current_location_exp)
+    st.write('hi')
     st.write(f"I learned {current_location_exp}")
 
 

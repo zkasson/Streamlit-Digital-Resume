@@ -32,7 +32,7 @@ if col2.button('Next'):
 def read_json(url):
     return gpd.read_file(url)
 
-json_file = r'https://raw.githubusercontent.com/zkasson/Streamlit-Digital-Resume/refs/heads/main/digitalResume.geojson'
+json_file = r'C:\Users\zackk\OneDrive\Desktop\Resume\Streamlit Digital Resume\digitalResume.geojson'
 state_json = r'https://raw.githubusercontent.com/zkasson/Portfolio/refs/heads/main/US_States.json'
 gdf = read_json(json_file)
 state_gdf = read_json(state_json)
@@ -93,6 +93,7 @@ else:
     current_location = gdf[gdf['ID'] == current_id]
     current_location_name = current_location['Name'].iloc[0]
     current_location_desc = current_location['Description'].iloc[0]
+    current_location_exp = current_location['Experience'].iloc[0]
     current_location_zoom = float(current_location['zoom'].iloc[0]) 
     current_icon = current_location['Icon'].iloc[0]
 
@@ -100,6 +101,8 @@ else:
     # Display details
     st.subheader(f"Location: {current_location_name}")
     st.write(current_location_desc)
+    st.write(' ')
+    st.write(f'I learned {current_location_exp}')
 
 
     # Create and display the map
@@ -110,7 +113,7 @@ else:
     fullscreen_control=False,
     center=current_location.geometry.iloc[0].coords[0][::-1],
     zoom=current_location_zoom)
-    
+
     # Add a single point for the current location
     for idx, row in current_location.iterrows():
         icon_name = row['Icon']
@@ -158,6 +161,3 @@ map.add_gdf(
 
 st_folium(map, width=1100, height=900)
 
-
-
-st_folium(map, width=1100, height=900)

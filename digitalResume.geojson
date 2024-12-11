@@ -7,7 +7,7 @@
           "ID": 1,
           "Name": "Cincinnati",
           "Description": "I was born in Cincinnati and grew up in northern Kentucky. I grew up in a very chaotic house with three brothers.",
-          "Experience": "",
+          "Experience": "to have fun.",
           "zoom": "7",
           "Icon": "house"
         },
@@ -21,8 +21,8 @@
         "properties": {
           "ID": 2,
           "Name": "NE Ohio",
-          "Description": "My mom took at position at Smuckers and moved to our family to Akron when I was eleven.",
-          "Experience": "",
+          "Description": "In middle school I moved to the Cleveland, Ohio.",
+          "Experience": "to work hard.",
           "zoom": "7",
           "Icon": "house"
         },
@@ -36,8 +36,8 @@
         "properties": {
           "ID": 3,
           "Name": "Cuyahoga Valley National Park - Community Engagement Intern",
-          "Description": "Offered engaging cultural and natural interpretations of the area to park visitors",
-          "Experience": "",
+          "Description": "Offered engaging cultural and natural interpretations of the area to park visitors.",
+          "Experience": "I learned to communicate with diverse groups of people.",
           "zoom": "10.4",
           "Icon": "briefcase"
         },
@@ -52,7 +52,7 @@
           "ID": 4,
           "Name": "Queens University of Charlotte - GIS Assistant",
           "Description": "Played college lacrosse while earning a degree in biology. I had my introduction to GIS here. My formal GIS education is from Queens. Collaborated with a nonprofit organization to create web maps displaying top polluters within the Catabawa River Basin",
-          "Experience": "",
+          "Experience": "to be open to new ways of thinking.",
           "zoom": "7.2",
           "Icon": "school"
         },
@@ -67,7 +67,7 @@
           "ID": 5,
           "Name": "Ohio State University",
           "Description": "I finished my undergraduate degree at the Ohio State University.",
-          "Experience": "",
+          "Experience": "to learn on my own.",
           "zoom": "7.5",
           "Icon": "user-graduate"
         },
@@ -82,7 +82,7 @@
           "ID": 6,
           "Name": "Kupu - HYCC Team Leader",
           "Description": "Supervised a team of four interns while completing enviromnetal restoration projects.",
-          "Experience": "",
+          "Experience": "to listen more, talk less.",
           "zoom": "7.7",
           "Icon": "briefcase"
         },
@@ -97,7 +97,7 @@
           "ID": 7,
           "Name": "Ohio State University Department of EEOB - Teaching Assistant",
           "Description": "Managed a lab setting of 25 students by preparing and effectively communicating material.",
-          "Experience": "",
+          "Experience": "to present information in a digestable way for different individuals.",
           "zoom": "16",
           "Icon": "person-chalkboard"
         },
@@ -112,7 +112,7 @@
           "ID": 8,
           "Name": "Ohio State University - Undergraduate Research Assistant",
           "Description": "Standardized raw, qualitave data pertaining to the Biology curricula at Ohio State University. This data was used To score professors on their ability to teach the outlined curriculum",
-          "Experience": "",
+          "Experience": "asking good questions in a survey will save time.",
           "zoom": "16",
           "Icon": "database"
         },
@@ -127,7 +127,7 @@
           "ID": 9,
           "Name": "Hampton Resources - GIS Analyst",
           "Description": "Analyzed geospatial data, created maps, maintained GIS databases, performed spatial analysis, supported decision-making, and collaborated with Foresters to solve help reduce spatial challenges. This was for about 365,000 acres.",
-          "Experience": "",
+          "Experience": "to seek out people who know more than you.",
           "zoom": "7",
           "Icon": "briefcase"
         },
@@ -142,7 +142,7 @@
           "ID": 10,
           "Name": "URISA Emerging Professionals Program - Board Member",
           "Description": "Organize meetings/agendas, select metors/mentees, Create educational materials and resources for mentorship pair.",
-          "Experience": "Culture, nature, and food tours.",
+          "Experience": "GIS is a cool field with cool people!",
           "zoom": "8",
           "Icon": "briefcase"
         },
